@@ -1,0 +1,12 @@
+# libs
+node_modules
+src/css-libs
+src/js-libs
+
+# binaries
+src/images
+fonts/
+
+# build
+pub
+
